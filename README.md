@@ -1,6 +1,6 @@
 ## Hello
 
-I'm a software engineer in Austin, Texas. I like to program things that provide benefits.
+I'm a software engineer in Austin, Texas.
 
 ### [Rabbitory](https://rabbitory.github.io/rabbitory_webpage/)
 
